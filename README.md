@@ -1,4 +1,3 @@
-<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="aventium softworks"></p>
 
 <h1 align="center">Helios Launcher</h1>
 
@@ -6,10 +5,10 @@
 
 [<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/dscalzi/HeliosLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/dscalzi/HeliosLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/HeliosLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
 
-<p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
+<p align="center">Join the City Rails Server without worrying about installing Java, Forge, or mods. We'll handle that for you.</p>
 
-![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
-![Screenshot 2](https://i.imgur.com/x3B34n1.png)
+![Screenshot 1](http://cityrails.de/wp-content/uploads/2022/02/cropped-2022-01-28_20.10.13.png)
+![Screenshot 2](https://static.planetminecraft.com/files/image/minecraft/project/2023/408/16521799_l.webp)
 
 ## Features
 
