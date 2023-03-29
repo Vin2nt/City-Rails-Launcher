@@ -1,5 +1,5 @@
 
-<h1 align="center">Helios Launcher</h1>
+<h1 align="center">City Rails Launcher</h1>
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
