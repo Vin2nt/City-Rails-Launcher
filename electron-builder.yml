@@ -1,8 +1,8 @@
-appId: 'cityrailslauncher'
+appId: 'City-Rails-Launcher'
 productName: 'City Rails Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2022 Bananensaft'
+copyright: 'Copyright © 2022-2023 Bananensaft'
 
 asar: true
 compression: 'maximum'
