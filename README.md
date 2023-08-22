@@ -90,13 +90,6 @@ The best way to contact the developers is on Discord.
 
 * [discord](https://discord.gg/JZutd3uQYB)
 
-<iframe src="https://discord.com/widget?id=1142527350093906034&theme=dark" 
-        width="350" 
-        height="500" 
-        allowtransparency="true" 
-        frameborder="0" 
-        sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
-    </iframe>
 
 ---
 
