@@ -6,8 +6,8 @@
 
 <p align="center">Join the City Rails Server without worrying about installing Java, Forge, or mods. We'll handle that for you.</p>
 
-![Screenshot 1](http://cityrails.de/wp-content/uploads/2022/02/cropped-2022-01-28_20.10.13.png)
-![Screenshot 2](https://static.planetminecraft.com/files/image/minecraft/project/2023/408/16521799_l.webp)
+![Screenshot 1](https://cdn.discordapp.com/attachments/934121807567552622/1142560214143479839/2023-08-19_22.42.47.png)
+![Screenshot 2](https://cdn.discordapp.com/attachments/934121807567552622/1142878214562271282/2023-08-20_19.46.52.png_2.png)
 
 ## Features
 
