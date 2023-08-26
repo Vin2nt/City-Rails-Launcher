@@ -4,7 +4,7 @@
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
 
-<p align="center">Join the City Rails Server without worrying about installing Java, Forge, or mods. We'll handle that for you.</p>
+<p align="center">Joine den City Rails Server ohne dich um irgendwas kümmern zu müssen.</p>
 
 ![Screenshot 1](https://cdn.discordapp.com/attachments/934121807567552622/1142560214143479839/2023-08-19_22.42.47.png)
 ![Screenshot 2](https://cdn.discordapp.com/attachments/934121807567552622/1142878214562271282/2023-08-20_19.46.52.png_2.png)
@@ -82,7 +82,7 @@ https://github.com/dscalzi/HeliosLauncher
 
 The best way to contact the developers is on Discord.
 
-* [discord](https://discord.gg/JZutd3uQYB)
+* [discord](https://discord.gg/Ns8u3F5Xmc)
 
 
 ---
@@ -92,5 +92,5 @@ The best way to contact the developers is on Discord.
 
 
 
-[discord]: https://discord.gg/JZutd3uQYB 'Discord'
+[discord]: https://discord.gg/Ns8u3F5Xmc 'Discord'
 [wiki]: https://github.com/vin2nt/city-rails-launcher/wiki 'wiki'
