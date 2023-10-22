@@ -4,41 +4,36 @@
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
 
-<p align="center">Joine den City Rails Server ohne dich um irgendwas kümmern zu müssen.</p>
+<p align="center">Trete dem City Rails Server bei, ohne dich um irgendetwas kümmern zu müssen.</p>
 
 ![Screenshot 1](https://cdn.discordapp.com/attachments/934121807567552622/1142560214143479839/2023-08-19_22.42.47.png)
 ![Screenshot 2](https://cdn.discordapp.com/attachments/934121807567552622/1142878214562271282/2023-08-20_19.46.52.png_2.png)
 
 ## Features
 
-* 🔒 Full account management.
-  * Add multiple accounts and easily switch between them.
-  * Microsoft (OAuth 2.0) + Mojang (Yggdrasil) authentication fully supported.
-  * Credentials are never stored and transmitted directly to Microsoft.
+* 🔒 Vollständiges Kontomanagement
+  * Fügen Sie mehrere Konten hinzu und wechseln Sie problemlos zwischen ihnen.
+  * Microsoft (OAuth 2.0) + Mojang (Yggdrasil) Authentifizierung vollständig unterstützt.
+  * Anmeldeinformationen werden niemals gespeichert und direkt an Microsoft übertragen.
 * 📂 Efficient asset management.
-  * Receive client updates as soon as we release them.
-  * Files are validated before launch. Corrupt or incorrect files will be redownloaded.
-* ☕ **Automatic Java validation.**
-  * If you have an incompatible version of Java installed, we'll install the right one *for you*.
-  * You do not need to have Java installed to run the launcher.
-* 📰 News feed natively built into the launcher.
-* ⚙️ Intuitive settings management, including a Java control panel.
-* Supports all of our servers.
-  * Switch between server configurations with ease.
-  * View the player count of the selected server.
-* Automatic updates. That's right, the launcher updates itself.
-*  View the status of Mojang's services.
+  * Erhalten Sie Updastes, sobald wir sie veröffentlichen.
+  * Dateien werden vor dem Start validiert. Beschädigte oder inkorrekte Dateien werden erneut heruntergeladen.
+* ☕ **Automatische Java-Validierung.**
+  * Wenn Sie eine inkompatible Version von Java installiert haben, installieren wir die richtige für Sie.
+  * Sie müssen Java nicht installiert haben, um den Launcher auszuführen.
+* 📰 In den Launcher integrierter Nachrichten-Feed.
+* ⚙️ Intuitives Einstellungsmanagement, einschließlich einer Java-Systemsteuerung..
+  * Sehe die Spieleranzahl des Servers.
+* Automatische Updates. Richtig, der Launcher aktualisiert sich selbst.
+*  Sehe den Status der Mojang-Dienste.
 
-This is not an exhaustive list. Download and install the launcher to gauge all it can do!
+Dies ist keine umfassende Liste. Laden Sie den Launcher herunter und installieren Sie ihn, um all seine Funktionen zu sehen!
 
-#### Need Help? [Check the wiki.][wiki]
-
-#### Like the project? Leave a ⭐ star on the repository!
+#### Hilfe? [Check the wiki.][wiki]
 
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/vin2nt/city-rails-launcher/releases)
-
+Sie können herunterladen von [GitHub Releases](https://github.com/vin2nt/city-rails-launcher/releases)
 
 **Supported Platforms**
 
