@@ -77,11 +77,7 @@ https://github.com/dscalzi/HeliosLauncher
 
 The best way to contact the developers is on Discord.
 
-<<<<<<< Updated upstream
-* [discord](https://discord.gg/Ns8u3F5Xmc)
-=======
-* [discord](https://discord.gg/pebxV2BsUr)
->>>>>>> Stashed changes
+* [discord](https://discord.gg/JzD2yeX7kc)
 
 
 ---
