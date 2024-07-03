@@ -97,21 +97,21 @@
             <div class="bot_wrapper">
                 <div id="content">
                     <div id="server_status_wrapper">
-                        <span class="bot_label" id="landingPlayerLabel">SERVER</span>
-                        <span id="player_count">OFFLINE</span>
+                        <span class="bot_label" id="landingPlayerLabel"><%- lang('landing.serverStatus') %></span>
+                        <span id="player_count"><%- lang('landing.serverStatusPlaceholder') %></span>
                     </div>
                     <div class="bot_divider"></div>
                     <div id="mojangStatusWrapper">
-                        <span class="bot_label">MOJANG STATUS</span>
+                        <span class="bot_label"><%- lang('landing.mojangStatus') %></span>
                         <span id="mojang_status_icon">&#8226;</span>
                         <div id="mojangStatusTooltip">
-                            <div id="mojangStatusTooltipTitle">Services</div>
+                            <div id="mojangStatusTooltipTitle"><%- lang('landing.mojangStatusTooltipTitle') %></div>
                             <div id="mojangStatusEssentialContainer">
                                 <!-- Essential Mojang services are populated here. -->
                             </div>
                             <div id="mojangStatusNEContainer">
                                 <div class="mojangStatusNEBar"></div>
-                                <div id="mojangStatusNETitle">Non&nbsp;Essential</div>
+                                <div id="mojangStatusNETitle"><%- lang('landing.mojangStatusNETitle') %></div>
                                 <div class="mojangStatusNEBar"></div>
                             </div>
                             <div id="mojangStatusNonEssentialContainer">
@@ -134,7 +134,7 @@
                             </defs>
                             <polyline class="arrowLine" points="0.71 13.26 12.56 1.41 24.16 13.02"/>
                         </svg>
-                        &#10;<span id="newsButtonText">NEWS</span>
+                        &#10;<span id="newsButtonText"><%- lang('landing.newsButton') %></span>
                     </button>
                 </div>
             </div>
@@ -142,7 +142,7 @@
         <div id="right">
             <div class="bot_wrapper">
                 <div id="launch_content">
-                    <button id="launch_button">PLAY</button>
+                    <button id="launch_button"><%- lang('landing.launchButton') %></button>
                     <div class="bot_divider"></div>
                     <button id="server_selection_button" class="bot_label">&#8226; Kein Server ist Ausgewählt</button>
                 </div>
@@ -185,7 +185,7 @@
                             <polyline class="arrowLine" points="0.71 13.26 12.56 1.41 24.16 13.02"/>
                         </svg>
                     </button>
-                    <span id="newsNavigationStatus">1 of 1</span>
+                    <span id="newsNavigationStatus"><%- lang('landing.newsNavigationStatus', { currentPage: 1, totalPages: 1 }) %></span>
                     <button id="newsNavigateRight">
                         <svg id="newsNavigationRightSVG" viewBox="0 0 24.87 13.97">
                             <defs>
