@@ -6,8 +6,8 @@
 
 <p align="center">Trete dem City Rails Server bei, ohne dich um irgendetwas kümmern zu müssen.</p>
 
-![Screenshot 1](https://cdn.discordapp.com/attachments/934121807567552622/1142560214143479839/2023-08-19_22.42.47.png)
-![Screenshot 2](https://cdn.discordapp.com/attachments/934121807567552622/1142878214562271282/2023-08-20_19.46.52.png_2.png)
+![Screenshot 1](https://cdn.discordapp.com/attachments/1144357127264161903/1249794943908712498/185_367-0-1.jpg?ex=66898f3e&is=66883dbe&hm=66986477ee046c12a4bbe438ccf2f66001baf43599ba74d036774385854e0753&)
+![Screenshot 2](https://cdn.discordapp.com/attachments/1144357127264161903/1203010581142044772/2024-02-02_17.05.33_final.png?ex=66896d69&is=66881be9&hm=3bb3d62a8e5afe16284466f709d13903f2f93a0717e4e6228ee24a5df9bbc1aa&)
 
 ## Features
 
@@ -75,8 +75,6 @@ https://github.com/dscalzi/HeliosLauncher
 
 * [Wiki][wiki]
 
-The best way to contact the developers is on Discord.
-
 * [discord](https://discord.gg/JzD2yeX7kc)
 
 
@@ -87,5 +85,5 @@ The best way to contact the developers is on Discord.
 
 
 
-[discord]: https://discord.gg/Ns8u3F5Xmc 'Discord'
-[wiki]: https://github.com/vin2nt/city-rails-launcher/wiki 'wiki'
+[discord]: https://discord.gg/JzD2yeX7kc 'Discord'
+[wiki]: https://cityrails.de/ 'wiki'
